@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project BI", "Report Project BI\Report Project BI.rptproj", "{D7857A85-550A-4FC9-85C0-337FEDCE499F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.Debug|Default.ActiveCfg = Debug
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.Debug|Default.Build.0 = Debug
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.Debug|Default.Deploy.0 = Debug
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.DebugLocal|Default.Build.0 = DebugLocal
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.Release|Default.ActiveCfg = Release
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.Release|Default.Build.0 = Release
+		{D7857A85-550A-4FC9-85C0-337FEDCE499F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
